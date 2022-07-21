@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]('./assets/img/screenshot.png')
+![](./assets/img/screenshot.png)
 
 ### Usage
 
