@@ -1,0 +1,14 @@
+{
+    "name": "arturharutyunyan/url-shortener",
+    "description": "Full Stack URL Shortener app",
+    "type": "no",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Harutyunyan",
+            "email": "Arturhar@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
